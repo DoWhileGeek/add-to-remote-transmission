@@ -2,6 +2,8 @@
 // @name        add to remote transmission
 // @namespace   https://github.com/DoWhileGeek/add-to-remote-transmission
 // @description Opens a modal to add magnet links to Transmission with different destination directories.
+// @author      DoWhileGeek
+// @license     MIT
 // @version     1.0.0
 // @grant       GM_xmlhttpRequest
 // @grant       GM_setValue
