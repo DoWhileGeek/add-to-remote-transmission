@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        add to remote transmission
+// @namespace   https://github.com/DoWhileGeek/add-to-remote-transmission
 // @description Opens a modal to add magnet links to Transmission with different destination directories.
 // @version     1
 // @grant       GM_xmlhttpRequest
