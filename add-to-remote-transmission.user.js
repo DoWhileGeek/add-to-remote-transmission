@@ -2,11 +2,15 @@
 // @name        add to remote transmission
 // @namespace   https://github.com/DoWhileGeek/add-to-remote-transmission
 // @description Opens a modal to add magnet links to Transmission with different destination directories.
-// @version     1
+// @version     1.0.0
 // @grant       GM_xmlhttpRequest
 // @grant       GM_setValue
 // @grant       GM_getValue
 // @match       https://webtorrent.io/free-torrents
+// @updateURL   https://github.com/DoWhileGeek/add-to-remote-transmission/raw/main/add-to-remote-transmission.user.js
+// @downloadURL https://github.com/DoWhileGeek/add-to-remote-transmission/raw/main/add-to-remote-transmission.user.js
+// @supportURL  https://github.com/DoWhileGeek/add-to-remote-transmission/issues
+// @include     https://webtorrent.io/*
 // ==/UserScript==
 
 // Default values (can be set by the user)
